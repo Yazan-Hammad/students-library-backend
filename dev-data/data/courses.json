@@ -1,0 +1,77 @@
+[
+  {
+    "name": "AI",
+    "id": "1910011460",
+    "department": "CS",
+    "image": "https://images.pexels.com/photos/8294608/pexels-photo-8294608.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "book": "https://drive.google.com/drive/folders/1ctiN6CsrokCc7wpDm6-Ov9tyqNnsQobJ?usp=drive_link",
+    "videos": "https://drive.google.com/drive/folders/1Ew0ylsGcbEAaO41CXpBRJ6xZgfVdJENW?usp=drive_link"
+  },
+  {
+    "name": "C++",
+    "id": "1910011100",
+    "department": "CS",
+    "image": "https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg",
+    "book": "https://drive.google.com/drive/folders/1D1xvR_htXCqUhBoFxyOf124DmyzQYife?usp=drive_link"
+  },
+  {
+    "name": "Algorithm",
+    "id": "1910011351",
+    "department": "CS",
+    "image": "https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "book": "https://drive.google.com/drive/folders/1fvMg2oBs7V8U7m9yJqakrGH5ZRrGYO8u?usp=drive_link",
+    "videos": "https://drive.google.com/drive/folders/14CJdH8ePd0R0ChvRF5BP8puE-lT_kaqh?usp=drive_link"
+  },
+  {
+    "name": "Data Mining",
+    "id": "151002351",
+    "department": "CIS",
+    "image": "https://www.springboard.com/blog/wp-content/uploads/2020/07/introduction-to-data-mining-a-complete-guide.png",
+    "book": "https://drive.google.com/drive/folders/1oeIdufKgXWBhzd8K-aixwexkgAnqpaH1?usp=drive_link"
+  },
+  {
+    "name": "Analysis",
+    "id": "151002470",
+    "department": "CIS",
+    "image": "https://learn.g2.com/hubfs/Imported%20sitepage%20images/1ZB5giUShe0gw9a6L69qAgsd7wKTQ60ZRoJC5Xq3BIXS517sL6i6mnkAN9khqnaIGzE6FASAusRr7w=w1439-h786.png",
+    "book": "https://drive.google.com/drive/folders/1aQ_n3WjkXvH7hysDLQ1O3PBwO3sGFHIZ?usp=drive_link",
+    "videos": "https://drive.google.com/drive/folders/13wO9ajIUJ2oz_T6dU3Z90o2Dh-Ek6Zoj?usp=drive_link"
+  },
+  {
+    "name": "GUI",
+    "id": "2010031437",
+    "department": "SW",
+    "image": "https://www.carettasoftware.com/images/screenshots/Wordsmith-Main-c1_tn.jpg",
+    "book": "https://drive.google.com/drive/folders/176ipMXk5nnf1jrQndUdNT5mcHMQRh0px?usp=drive_link"
+  },
+  {
+    "name": "IR",
+    "id": "151002372",
+    "department": "CIS",
+    "image": "https://www.searchenginejournal.com/wp-content/uploads/2022/09/information-retrieval-2-632c7ba46ffa3-sej-1520x800.webp",
+    "book": "https://drive.google.com/drive/folders/1j7OqCFStqvOXqHyzrVeXd-_7oc6IIHQl?usp=drive_link",
+    "videos": "https://drive.google.com/drive/folders/1j1y-aJ092My0ZKVPCT0BFY0EuoY8NZ_s?usp=drive_link"
+  },
+  {
+    "name": "E-Marketing",
+    "id": "2010041360",
+    "department": "BIT",
+    "image": "https://www.mbaknol.com/wp-content/uploads/2017/11/e-marketing-mbaknol-e1535609992500.jpg.webp",
+    "book": "https://drive.google.com/drive/folders/1gjWuRBzvHIaIzKNUoWoZaCC8QTJXoFPx?usp=drive_link"
+  },
+  {
+    "name": "Discrete",
+    "id": "2010042101",
+    "department": "BIT",
+    "image": "https://lastmomenttuitions.com/wp-content/uploads/2019/08/dsc-mths.png",
+    "book": "https://drive.google.com/drive/folders/1XDa18vQBa_n_zBPLsmZrES0uHthqLiTs?usp=drive_link",
+    "videos": "https://www.youtube.com/watch?v=6G4HGXmUAJ0&list=PLd2pEan0ZG_Y59xY-E1xo9YB27zmYwmIx"
+  },
+  {
+    "name": "Web Software",
+    "id": "2010031274",
+    "department": "SW",
+    "image": "https://file.mockplus.com/image/2018/09/ab8ebe26-a88f-4c14-aafb-0a12f18eada2.jpg",
+    "book": "https://drive.google.com/drive/folders/1jk-uQfU1TJqDPir_G0a_ChxBJHusk3X9?usp=drive_link"
+  }
+]
